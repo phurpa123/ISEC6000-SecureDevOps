@@ -15,7 +15,6 @@
 - [Microservices Architecture and Deployment](#microservices-architecture-and-deployment)
 - [Implementing Security Measures](#implementing-security-measures)
 - [Architecture Visualization](#architecture-visualization)
-- [Bibliography and References](#bibliography-and-references)
 
 ---
 
@@ -29,9 +28,9 @@ This project demonstrates the deployment and security configuration of a microse
 
 ### 1. Kubernetes Cluster Creation
 - Created a Kubernetes cluster on **Google Kubernetes Engine (GKE)**.
-<img src="./media/1.png" style="width:0.2626in;height:0.16456in" />
 - **API enabled** and **Google Cloud Shell** launched to configure the project and zone.
 - **Cluster Creation**: Standard cluster with autoscaling enabled. Maximum nodes set to 5.
+<img src="./media/1.png" style="width:0.2626in;height:0.16456in" />
 <img src="./media/2.png" style="width:0.2626in;height:0.16456in" />
 
 ### 2. Install and Configure `kubectl`
