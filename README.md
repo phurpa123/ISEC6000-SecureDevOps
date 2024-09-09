@@ -3,7 +3,6 @@
 ## Project Title: Building, Deploying, and Securing a Microservices E-commerce Application
 
 **Author**: Phurpa Tshering  
-**Student ID**: 21312391  
 **Degree**: MSc Computing (Cybersecurity)  
 **University**: Curtin University, Department of Computing Sciences  
 
